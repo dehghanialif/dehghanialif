@@ -23,7 +23,7 @@ Feel free to explore my repositories for more!
 
 ## 📫 Let's Connect
 
-- LinkedIn: [Ali Dehghani](www.linkedin.com/in/ali-dehghani-firouzabadi-ba6014223)
+- LinkedIn: [Ali Dehghani](https://www.linkedin.com/in/ali-dehghani-f)
 - Twitter: [@dehghanialif](https://twitter.com/dehghanialif)
 - Facebook: [Ali Dehghani](https://www.facebook.com/profile.php?id=61554911777856)
 
