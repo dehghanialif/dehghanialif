@@ -17,7 +17,7 @@ I'm a passionate front-end developer on a journey to create delightful web exper
 
 Here are some projects I've been working on:
 
-- 🌐 [Game Hub](https://game-hub-three-ivory.vercel.app/): Short description
+- 🌐 [Game Hub](https://game-hub-three-ivory.vercel.app/): Discover and explore new games by platform, genre, and more
 
 Feel free to explore my repositories for more!
 
